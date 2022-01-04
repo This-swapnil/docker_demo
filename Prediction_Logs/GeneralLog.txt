@@ -10,3 +10,35 @@
 2021-11-23/19:47:18		GoodRaw directory deleted successfully!!!
 2021-11-23/19:47:18		Bad files moved to archive
 2021-11-23/19:47:18		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:15:03		BadRaw directory deleted before starting validation!!!
+2022-01-03/20:15:03		GoodRaw directory deleted successfully!!!
+2022-01-03/20:15:46		GoodRaw directory deleted successfully!!!
+2022-01-03/20:15:46		Bad files moved to archive
+2022-01-03/20:15:46		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:20:55		GoodRaw directory deleted successfully!!!
+2022-01-03/20:20:55		Bad files moved to archive
+2022-01-03/20:20:55		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:24:37		GoodRaw directory deleted successfully!!!
+2022-01-03/20:24:37		Bad files moved to archive
+2022-01-03/20:24:37		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:32:40		GoodRaw directory deleted successfully!!!
+2022-01-03/20:32:40		Bad files moved to archive
+2022-01-03/20:32:40		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:43:47		GoodRaw directory deleted successfully!!!
+2022-01-03/20:43:47		Bad files moved to archive
+2022-01-03/20:43:47		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/20:56:39		GoodRaw directory deleted successfully!!!
+2022-01-03/20:56:39		Bad files moved to archive
+2022-01-03/20:56:39		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/21:09:46		GoodRaw directory deleted successfully!!!
+2022-01-03/21:09:46		Bad files moved to archive
+2022-01-03/21:09:46		Bad Raw Data Folder Deleted successfully!!
+2022-01-03/21:22:01		GoodRaw directory deleted successfully!!!
+2022-01-03/21:22:01		Bad files moved to archive
+2022-01-03/21:22:01		Bad Raw Data Folder Deleted successfully!!
+2022-01-04/10:41:10		GoodRaw directory deleted successfully!!!
+2022-01-04/10:41:10		Bad files moved to archive
+2022-01-04/10:41:10		Bad Raw Data Folder Deleted successfully!!
+2022-01-04/11:05:07		GoodRaw directory deleted successfully!!!
+2022-01-04/11:05:07		Bad files moved to archive
+2022-01-04/11:05:07		Bad Raw Data Folder Deleted successfully!!
